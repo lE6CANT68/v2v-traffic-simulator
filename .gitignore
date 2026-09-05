@@ -1,0 +1,12 @@
+*.pro.user
+*.pro.user.*
+*.stash
+*.o
+*.obj
+*.exe
+Makefile
+Makefile.*
+build/
+build-*/
+debug/
+release/
