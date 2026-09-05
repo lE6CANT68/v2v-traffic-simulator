@@ -4,7 +4,7 @@ Un simulateur de trafic routier et de connexions réseaux "Vehicle-to-Vehicle" (
 
 ## Démo
 
-![Démo du simulateur V2V](./demo/Gif_voiture.gif)
+![Démo du simulateur V2V](./demo/Gif_Voiture.gif)
 
 ## Fonctionnalités Principales
 
